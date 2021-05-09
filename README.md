@@ -1,4 +1,4 @@
-# python-web-scraping-analytics
+# imdb-movie-scraper
 
 - Some weekend fun with Python, BeautifulSoup, pandas, and numpy
 - Web scraper calling out to iMDB and grabbing all elements for the top 50 movies of all time
