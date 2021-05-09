@@ -1,2 +1,2 @@
-# python-scraping-analytics
+# python-web-scraping-analytics
 weekend fun with python
